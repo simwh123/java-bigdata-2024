@@ -7,7 +7,7 @@
 
     ＊ 깃헙 가입
 
-        [깃헙](https://github.com/)
+        [깃헙]((https://github.com/))
 
     ＊ 깃 설치
 
