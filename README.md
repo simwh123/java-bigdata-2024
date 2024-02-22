@@ -7,7 +7,7 @@
 
     ＊ 깃헙 가입
 
-        [깃헙] (https://github.com)
+        [깃헙](https://github.com/)
 
     ＊ 깃 설치
 
@@ -15,15 +15,19 @@
 
     ＊ 깃헙 데스크탑 설치
 
-        [깃헙 데스크탑 설치](https://desktop/github.com)
+        [깃헙 데스크탑 설치](https://desktop/github.com/)
 
     ＊ 파이썬 설치
 
-        [파이썬 설치](https://python.org)
+        [파이썬 설치](https://python.org/)
 
     ＊ Visual Studio Code 설치
 
+        [Visual]
+
     ＊ 나눔고딕코딩 글자체 설치
+
+        [나눔고딕코딩]
 
 ○ 파이썬 학습
 
