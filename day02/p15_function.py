@@ -95,5 +95,5 @@ a, b, c, d = calc2(3,4)
 print(a,b,c,d)
 
 ## 익명함수 람다함수
-add = lambda a, b: a+b
+add = lambda a, b: a+b  # 간단한 함수는 람다함수를 이용하지만 복잡한 함수는 왠만하면 이용하지 않는다
 print(add(5,4))
