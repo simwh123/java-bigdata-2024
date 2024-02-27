@@ -1,35 +1,23 @@
 # java＊bigdata＊2024
 빅데이터 자바 개발자 파이썬 학습 리포지토리
 
-##1일차
+## 1일차
 
-    ○ 파이썬 개발환경
+- 파이썬 개발환경
+  
+    [깃헙](https://github.com)
 
-        ＊ 깃헙 가입
+    [깃설치](https://git＊scm.com/download/win)
 
-            [깃헙](https://github.com)
+    [깃헙 데스크탑 설치](https://desktop/github.com)
 
-        ＊ 깃 설치
+    [파이썬 설치](https://python.org/)
 
-            [깃설치](https://git＊scm.com/download/win)
+    [Visual]
 
-        ＊ 깃헙 데스크탑 설치
+    [나눔고딕코딩]
 
-            [깃헙 데스크탑 설치] (https://desktop/github.com/)
-
-        ＊ 파이썬 설치
-
-            [파이썬 설치](https://python.org/)
-
-        ＊ Visual Studio Code 설치
-
-            [Visual]
-
-        ＊ 나눔고딕코딩 글자체 설치
-
-            [나눔고딕코딩]
-
-    ○ 파이썬 학습
+- 파이썬 학습
 
         ● 파이썬 개요
                 1990년 네덜란드 개발자 귀도 반 로섬이 개발
@@ -53,9 +41,9 @@
                     리스트는 수정, 삭제 가능
                     튜플은 수정, 삭제 불가 그 외는 리스트와 동일
 
-##2일차
+## 2일차
 
-    ○ 파이썬 학습
+ - 파이썬 학습
 
         ● 파이썬 기초문법
 
@@ -73,9 +61,9 @@
         
         
 
-#3일차
+# 3일차
 
-    ○ 파이썬 학습
+- 파이썬 학습
 
         ●파이썬 기초문법
         
@@ -92,9 +80,9 @@
             ＊ 예외처리, 디버깅
         
 
-#4일차
+# 4일차
 
-    ○ 파이썬 학습
+- 파이썬 학습
 
         ● 파이썬 기초문법
 
@@ -102,23 +90,23 @@
 
             ＊ ★★예외처리, 디버깅
 
-#5일차
+# 5일차
 
-    ○ 파이썬 학습
+- 파이썬 학습
 
-        ● 파이썬 응용
+    ● 파이썬 응용
 
-            ＊ OS 디렉토리
+        ＊ OS 디렉토리
 
-            ＊ 아스키 및 유니코드
+        ＊ 아스키 및 유니코드
 
-            ＊ 주소록 앱 만들기
+        ＊ 주소록 앱 만들기
 
 
 
-            ![주소록앱](https://github.com/simwh123/java-bigdata-2024/blob/main/images/day05Test.gif)
+    ![주소록앱](https://github.com/simwh123/java-bigdata-2024/blob/main/images/day05Test.gif)
 
             - Windows App 만들기(PyQt 5)
 
-#6일차
+# 6일차
 
