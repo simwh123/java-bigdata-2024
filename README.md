@@ -116,5 +116,7 @@
 
             ＊ 주소록 앱 만들기
 
+            ![주소록앱](https://github.com/simwh123/java-bigdata-2024/blob/main/images/day05Test.gif)
+
 #6일차
 
