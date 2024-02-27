@@ -7,15 +7,15 @@
 
         ＊ 깃헙 가입
 
-            [깃헙](https://github.com/)
+            [깃헙] (https://github.com/)
 
         ＊ 깃 설치
 
-            [깃 설치](https://git＊scm.com/download/win)
+            [깃 설치] (https://git＊scm.com/download/win)
 
         ＊ 깃헙 데스크탑 설치
 
-            [깃헙 데스크탑 설치](https://desktop/github.com/)
+            [깃헙 데스크탑 설치] (https://desktop/github.com/)
 
         ＊ 파이썬 설치
 
@@ -115,6 +115,8 @@
             ＊ 아스키 및 유니코드
 
             ＊ 주소록 앱 만들기
+
+
 
             ![주소록앱](https://github.com/simwh123/java-bigdata-2024/blob/main/images/day05Test.gif)
 
