@@ -7,19 +7,19 @@
 
         ＊ 깃헙 가입
 
-            [깃헙] (https://github.com/)
+            ![깃헙](https://github.com/)
 
         ＊ 깃 설치
 
-            [깃 설치] (https://git＊scm.com/download/win)
+            ![깃 설치](https://git＊scm.com/download/win)
 
         ＊ 깃헙 데스크탑 설치
 
-            [깃헙 데스크탑 설치] (https://desktop/github.com/)
+            ![깃헙 데스크탑 설치] (https://desktop/github.com/)
 
         ＊ 파이썬 설치
 
-            [파이썬 설치](https://python.org/)
+            ![파이썬 설치](https://python.org/)
 
         ＊ Visual Studio Code 설치
 
@@ -39,15 +39,13 @@
 
             ＊ 숫자형(정수, 실수, 진수)
 
-        ``` 
-            python
+        ``` python
             변수만 선언, 값만 할당하면 숫자형으로 지정
             C,C++,Java,C 처럼 형지정이 없음
         ```
 
             ＊ 문자열형(연산, 문자열 포맷, 함수)
-        ```
-            python
+        ```python
             '', "" 모두 사용 가능
         ```
                 
