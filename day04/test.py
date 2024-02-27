@@ -59,9 +59,10 @@ print(va2)
 print(round(17/3,4))
 
 #Q9
-
+#디렉터리 이동하고 파일 목록 출력하기
 
 #Q10
+#파일 확장자가 .py인 파일만 찾기
 
 #Q11
 
@@ -76,9 +77,8 @@ print(f'{cur2}/{cur3}/{cur4} {cur1}')
 #Q12
 import random
 
-
 result =[]
-total = []
+
 
 
 while True:
@@ -90,7 +90,54 @@ while True:
         break
 
     result.sort()
-    total.append(result)
-    result =[]
+    
+print(result)
 
-print(total)
+#Q13
+
+import datetime
+
+day1 = datetime.date(1995,11,20)
+day2 = datetime.date(1998,10,6)
+
+print(day2-day1)
+
+#Q14
+
+data=[('윤서현', 15.25),('김예지', 13.31),('박예원',15.34),('송순자',15.57),('김시우',15.48)]
+
+from operator import itemgetter
+
+result = sorted(data, key = itemgetter(1))
+print(result)
+
+#Q15
+
+import itertools
+
+print(list(itertools.combinations(['나지혜','성성민','윤지현','김정숙'],2)))
+
+#Q16
+
+
+
+print(print(list(itertools.permutations(['a','b','c','d'],4))))
+
+#Q17
+
+
+var1 = ['김승현','김진호','강춘자','이예준','김현주']
+var2 = ['청소','빨래','설거지']
+
+
+
+var3 = itertools.zip_longest(random.sample(var1,len(var1)),var2,fillvalue = '휴식')
+print(list(var3))
+
+#Q18
+import math
+varr1 = math.gcd(200,80)
+
+
+print(varr1,int((200/varr1)*(80/varr1)),'개')
+
