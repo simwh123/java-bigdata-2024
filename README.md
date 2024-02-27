@@ -11,7 +11,7 @@
 
         ＊ 깃 설치
 
-            ![깃 설치](https://git＊scm.com/download/win)
+            [https://git＊scm.com/download/win]
 
         ＊ 깃헙 데스크탑 설치
 
