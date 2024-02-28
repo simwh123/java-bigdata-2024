@@ -114,7 +114,15 @@
 
             - Windows App 만들기(PyQt 5)
 
+    ![QtApp]()
+
 ## 6일차
 - 파이썬 학습
   - PyQt5 학습
     - Qwidget 자식 클래스 종류 학습
+
+        ![QLabel](C:\Source\java-bigdata-2024\images\digdata03.png)
+
+        - Naver 뉴스API 검색 앱
+
+        ![naverApp](C:\Source\java-bigdata-2024\images\digdata04.png)
