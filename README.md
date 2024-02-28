@@ -114,7 +114,7 @@
 
             - Windows App 만들기(PyQt 5)
 
-    ![QtApp]()
+    ![QtApp](https://github.com/simwh123/java-bigdata-2024/blob/main/images/bigdata02.png)
 
 ## 6일차
 - 파이썬 학습
