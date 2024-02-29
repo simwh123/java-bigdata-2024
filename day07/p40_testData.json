@@ -1,0 +1,6 @@
+{
+    "name" : "Peter Parker", 
+    "age" : 18,
+    "wepon":"Web shooter",
+    "friends":["ironMan","Thor","Captain America"]
+}

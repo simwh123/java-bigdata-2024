@@ -126,3 +126,26 @@
         - Naver 뉴스API 검색 앱
 
         ![naverApp](https://github.com/simwh123/java-bigdata-2024/blob/main/images/bigdata04.png)
+
+## 7일차
+- 파이썬 학습
+    - PyQt5 계속
+      - Naver 뉴스API 검색 앱 마무리
+    - json 학습
+    - PyQt5
+      - 스레드 개념, 학습
+
+        ![스레드](https://github.com/simwh123/java-bigdata-2024/blob/main/images/bigdata05.png)
+
+      - TTS
+      - QRCode 생성기
+
+        ![QR코드생성기](https://github.com/simwh123/java-bigdata-2024/blob/main/images/bigdata06.png)
+
+      - 구글 번역기
+
+        ![구글번역](https://github.com/simwh123/java-bigdata-2024/blob/main/images/bigdata07.png)
+
+## 8일차
+- 파이썬 응용
+  - 파이썬 자동화
