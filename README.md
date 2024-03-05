@@ -157,6 +157,7 @@
 ## 9일차
 - 파이썬 응용
   - 이미지 처리 OpenCV
+    ![그림에디터](https://github.com/simwh123/java-bigdata-2024/blob/main/images/bigdata09.png)
   
   - Flask, Django 웹서버
    
