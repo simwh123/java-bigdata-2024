@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTextEdit" name="memo">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>781</width>
+      <height>551</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu_File">
+    <property name="title">
+     <string>파일</string>
+    </property>
+    <addaction name="action_newfile"/>
+    <addaction name="action_save"/>
+    <addaction name="action_newsave"/>
+    <addaction name="action_close"/>
+   </widget>
+   <widget class="QMenu" name="menuHelp">
+    <property name="title">
+     <string>도움말</string>
+    </property>
+    <addaction name="action_about"/>
+   </widget>
+   <addaction name="menu_File"/>
+   <addaction name="menuHelp"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="action_newfile">
+   <property name="text">
+    <string>열기</string>
+   </property>
+  </action>
+  <action name="action_save">
+   <property name="text">
+    <string>저장</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
+   </property>
+  </action>
+  <action name="action_close">
+   <property name="text">
+    <string>닫기</string>
+   </property>
+  </action>
+  <action name="action_about">
+   <property name="text">
+    <string>이 파일은 간단한 메모장입니다....</string>
+   </property>
+  </action>
+  <action name="action_newsave">
+   <property name="text">
+    <string>다른 이름으로 저장</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -171,8 +171,22 @@
  
  ## 10일차
  - 파이썬 응용
-   - 그림에디터 완성
- 
-   - 메모장 만들기
+   - 그림에디터 완성(Opencv 그레이스케일)
+       - mp4로 동영상 업로드 하려면 github 사이트에서 Readme.md를 수정 클릭 후, mp4를 드래그해서 입력가능
+       - 제한사항은 10MB 이하
+
+   - 실행파일 만들기
+     - PyInstaller 모듈 설치
+     ```shell
+     > pip install pyinstaller
+     > pyinstaller -w -F pythonfile.py
+     ```
+     - -w는 윈도우창만 실행 콘솔창삭제, -F _internal 폴더 생성안되도록, oneFile로 만들어 준다
+     - 실패, 재생성시는 build, dist폴더 삭제, pythonfile.spec 삭제 뒤 다시 명령어 실행
   
    - Jupyter Notebook 사용법(빅데이터 분석, 코딩테스트)
+     - Ctrl + Shift + P (명령 팔레트)
+     - 노트북 사용
+     - ChatGPT API 사용 
+      [참조 사이트](https://github.com/teddylee777/openai-api-kr)
+     - 메모장 만들기 :  [메모장만들기 예시](https://www.youtube.com/watch?v=6jPXGgON6oU&list=PLnIaYcDMsScwsKo1rQ18cLHvBdjou-kb5&index=5)
