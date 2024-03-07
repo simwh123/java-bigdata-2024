@@ -20,3 +20,10 @@ body = body.replace('java', 'python')
 f = open('./day03/test.txt', mode='w', encoding='utf-8')
 f.write(body)
 f.close()
+
+
+var4 = 0
+while var4 in range(0,1000):
+    if var4%3 == 0:
+        var4 += var4
+print(var4)

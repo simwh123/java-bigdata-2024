@@ -37,8 +37,8 @@ print(''.join(['you','need','python']))
 # f1.write("Life is too short")
 # f1.close()
 
-f2 = open('test.txt','r')
-print(f2.read())
+#f2 = open('test.txt','r')
+#print(f2.read())
 
 # Q6
 
