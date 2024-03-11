@@ -8,7 +8,7 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtWidgets import QWidget
 
 
-class winApp(QMainWindow):   # Qwidget이 아님!
+class winApp(QMainWindow): 
     def __init__(self) -> None:
         super().__init__()
         self.initUI()
