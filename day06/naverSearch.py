@@ -16,8 +16,8 @@ class NaverSearch:
     def getRequestUrl(self, url):   # 클래스 내에서 사용할 함수
         ssl._create_default_https_context = ssl._create_unverified_context
         req = Request(url)
-        req.add_header('X-Naver-Client-Id','kQSEcDwXtimV50cjHceG')  # 자신의 애플리케이션 클라이언트 아이디 입력
-        req.add_header('X-Naver-Client-Secret','wRXUVEDhYi')    # 시크릿키는 숨겨져있음
+        req.add_header('X-Naver-Client-Id','')  # 자신의 애플리케이션 클라이언트 아이디 입력
+        req.add_header('X-Naver-Client-Secret','')    # 시크릿키는 숨겨져있음
 
         try:
             res = urlopen(req)
