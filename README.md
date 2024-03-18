@@ -177,6 +177,10 @@
 - 파이썬 응용
   - [이미지 처리 OpenCV 윤대희님 깃헙 참조](https://github.com/simwh123/java-bigdata-2024/blob/main/day09/p64_opencv.py)
    
+
+https://github.com/simwh123/java-bigdata-2024/assets/160683556/ef28c40a-c18f-4ae9-adb7-7f49c788e830
+
+
   
   - Flask, Django 웹서버
    
@@ -188,6 +192,10 @@
        - mp4로 동영상 업로드 하려면 github 사이트에서 Readme.md를 수정 클릭 후, mp4를 드래그해서 입력가능
        - 제한사항은 10MB 이하
    
+
+https://github.com/simwh123/java-bigdata-2024/assets/160683556/0f07a35c-a187-441a-bc1c-fff6333afd6b
+
+
  
  ## 10일차
  - 파이썬 응용
